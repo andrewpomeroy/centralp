@@ -1,0 +1,3 @@
+h1.title, .home h2.title {font-family: "TwCenMTStd-UltraBold"; text-transform: uppercase;}
+/* h1 { font-size: 4.5em; line-height: 1.1em; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 10px 0; } */
+body#index_page.work #content div.project h1 { letter-spacing: 0.01em; }

@@ -1,0 +1,11 @@
+
+		@font-face {
+				font-family: 'TwCenMT-Bold';
+				src: url('fonts/twcenmtbold.eot');
+				src: url('fonts/twcenmtbold.eot?#iefix') format('embedded-opentype'),
+						 url('fonts/twcenmtbold.woff') format('woff'),
+						 url('fonts/twcenmtbold.ttf') format('truetype'),
+						 url('fonts/twcenmtbold.svg#twcenmtbold') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
